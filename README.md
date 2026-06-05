@@ -54,12 +54,13 @@ Cette section centralise les liens vers les plateformes officielles des wargames
 
 ## 📈 Progressions et statistiques
 
-| Statut | Nombre | Progression |
-|--------|--------|-------------|
-| ✅ Challenges en cours | 0 | - |
-| 🔄 En Cours | 0 | - |
-| ⏳ À Explorer | - | - |
-| 📊 Taux de Réussite | - | - |
+Chaque dossier aura une section dédiée à la progression, avec un tableau de suivi des challenges et des résultats obtenus.
+
+| Statut | Nombre |
+|--------|--------|
+| ✅ Challenges validés | 0 |
+| 🔄 En Cours | 0 |
+| ⏳ Reste à faire | - |
 
 > **Note** : Ce tableau sera mis à jour régulièrement au fur et à mesure de la progression.
 
@@ -68,12 +69,6 @@ Cette section centralise les liens vers les plateformes officielles des wargames
 ## ⚠️ Disclaimer
 
 Ce dépôt a une vocation **pédagogique** et **personnelle**. Les contenus publiés sont destinés à documenter mes travaux et ne doivent être utilisés qu’à des fins d’apprentissage et de bonnes pratiques.
-
----
-
-**Dernière mise à jour** : 05/06/2026  
-**Auteur** : Étudiant IT - Technicien Supérieur Système et Réseau  
-**Statut** : 🟢 Actif et en développement
 
 ---
 
