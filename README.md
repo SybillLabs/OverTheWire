@@ -35,11 +35,15 @@ OverTheWire/
 
 ### 🗂️ Les activités
 
-- [Bandit](/bandit/sommaire.md) — axe de travail système/shell
-- [Krypton](/krypton/sommaire.md) — axe de travail cryptographie
-- [Natas](/natas/sommaire.md) — axe de travail sécurité web
+Cette section référence l’accès rapide à chaque **sous-dossier** et à son **sommaire**, afin de structurer la navigation entre les activités.
+
+- [Bandit](/bandit/sommaire.md)
+- [Krypton](/krypton/sommaire.md)
+- [Natas](/natas/sommaire.md)
 
 ### 🌐 Ressources officielles
+
+Cette section centralise les liens vers les plateformes officielles des wargames, pour un accès direct aux défis.
 
 - [OverTheWire](https://overthewire.org/)
 - [Bandit](https://overthewire.org/wargames/bandit/)
