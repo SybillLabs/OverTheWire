@@ -10,7 +10,7 @@ Ce dépôt regroupera mes **solutions** et **notes** relatives aux wargames Over
 - **Krypton** : axe de travail cryptographie
 - **Natas** : axe de travail sécurité web
 
-Ces axes de travail permettent de renforcer ma maîtrise du **shell Linux**, des **permissions**, du **réseau** et de la **cryptographie**.
+Ces axes de travail permettent de renforcer mes compétences du **shell Linux**, des **permissions**, du **réseau** et de la **cryptographie**.
 
 ### 🧑‍💼 Contexte professionnel
 
